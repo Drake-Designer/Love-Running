@@ -1,5 +1,5 @@
 module.exports = {
-  printWidth: 120, // Permette tag HTML in una riga
+  printWidth: 200, // Permette tag HTML in una riga
   tabWidth: 2,
   useTabs: false,
   semi: true,
