@@ -1,0 +1,22 @@
+# Ignora la cartella node_modules
+node_modules/
+
+# Log e configurazioni locali
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ambiente
+.env
+.env.*
+
+# Configurazioni di sistema
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Altri file temporanei
+*.log
+*.tmp
