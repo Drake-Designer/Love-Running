@@ -194,7 +194,7 @@ main {
 
 /* Form page */
 #signup {
-  background: url('/assets/images/signup-image.webp') no-repeat center/cover;
+  background: url('../images/signup-image.webp') no-repeat center/cover;
   background-position: 75%;
   padding: 20px 10% 0 10%;
   flex-grow: 1;
