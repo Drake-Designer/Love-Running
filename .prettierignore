@@ -1,0 +1,30 @@
+# Ignora la cartella node_modules (sempre)
+node_modules/
+
+# Ignora i file di immagini
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.ico
+
+# Ignora file lock di npm
+package-lock.json
+
+# Ignora il file .editorconfig (non serve formattarlo)
+.editorconfig
+
+# Ignora file di configurazione Prettier
+.prettierrc
+.prettierrc.json
+
+# Ignora file di configurazione lint
+.eslintrc
+.stylelintrc
+.hintrc
+
+# Ignora altri file vari
+*.log
+.DS_Store
