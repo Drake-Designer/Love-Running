@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/2103f158-d691-4d4e-8b35-66cdeeb17b3f)
+
+<br>
+
 # 🏃‍♀️ Love Running
 
 This is a guided project created during my Web Development course at **Code Institute**.  
