@@ -24,7 +24,7 @@ The goal of the project is to create a responsive and attractive multi-page webs
 
 ## 🌐 Live Demo
 
-👉 You can view the live site here: [Love Running](https://drake-designer.github.io/love-running/)
+👉 You can view the live site here: [Love Running](https://drake-designer.github.io/Love-Running)
 
 ---
 
